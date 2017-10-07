@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for sigcarrier
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -157,6 +157,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JPKXAJGD
 
+[Document8]
+DocumentPath=sigcarrier.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for sigcarrier\Design Rule Check - sigcarrier.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=sigcarrier 10-6-2017 11-01-27 PM.WAS
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -166,6 +191,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for sigcarrier
 
 [OutputGroup1]
 Name=Netlist Outputs
